@@ -16,9 +16,9 @@ The resulting graph will be displayed on the screen.
 
 This script requires the following libraries to be installed:
 
-. pandas_datareader
-. yfinance
-. matplotlib
+- pandas_datareader
+- yfinance
+- matplotlib
 
 You can install these libraries using pip:
 
